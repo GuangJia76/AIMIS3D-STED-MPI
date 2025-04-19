@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="1092" width="1936" x="1912" y="-8">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.DebugView"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="0"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="211" y="56"/>
+<coolItem id="com.rsi.idldt.ui.textedit.toolbar" itemType="typeToolBarContribution" x="288" y="56"/>
+<coolItem id="com.rsi.idldt.ui.toolbar.debugTools" itemType="typeToolBarContribution" x="458" y="56"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1523858767445" focus="true" label="工作空间 － IDL">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+<part id="68"/>
+<part id="69"/>
+<part id="70"/>
+<part id="71"/>
+<part id="72"/>
+<part id="73"/>
+<part id="74"/>
+<part id="75"/>
+<part id="76"/>
+<part id="77"/>
+<part id="78"/>
+<part id="79"/>
+<part id="80"/>
+<part id="81"/>
+<part id="82"/>
+<part id="83"/>
+<part id="84"/>
+<part id="85"/>
+<part id="86"/>
+<part id="87"/>
+<part id="88"/>
+<part id="89"/>
+<part id="90"/>
+<part id="91"/>
+<part id="92"/>
+<part id="93"/>
+<part id="94"/>
+<part id="95"/>
+<part id="96"/>
+<part id="97"/>
+<part id="98"/>
+<part id="99"/>
+<part id="100"/>
+<part id="101"/>
+<part id="102"/>
+<part id="103"/>
+<part id="104"/>
+<part id="105"/>
+<part id="106"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fsc_color.pro" partName="fsc_color.pro" title="fsc_color.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\fsc_color.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/fsc_color.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="progressbar__define.pro" partName="progressbar__define.pro" title="progressbar__define.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\progressbar__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/progressbar__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="rdstl.pro" partName="rdstl.pro" title="rdstl.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\rdstl.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/rdstl.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5031" selectionTopPixel="2581"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="separate.pro" partName="separate.pro" title="separate.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\separate.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/separate.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="db_load.pro" partName="db_load.pro" title="db_load.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\db_load.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/db_load.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14896" selectionTopPixel="8655"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="using_odbc_excel.pro" partName="using_odbc_excel.pro" title="using_odbc_excel.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\using_odbc_excel.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/using_odbc_excel.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="805" selectionTopPixel="465"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="xmanager.pro" partName="xmanager.pro" title="xmanager.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\xmanager.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/xmanager.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="19025" selectionTopPixel="7380"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="idlexmodelmanip__define.pro" partName="idlexmodelmanip__define.pro" title="idlexmodelmanip__define.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\utilities\idlexmodelmanip__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/utilities/idlexmodelmanip__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16513" selectionTopPixel="7410"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="xmanager.pro" partName="xmanager.pro" title="xmanager.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\xmanager.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/xmanager.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18169" selectionTopPixel="6960"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="xd_xroi.pro" partName="xd_xroi.pro" title="xd_xroi.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\xd_xroi.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/xd_xroi.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="140747" selectionTopPixel="56475"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="parrec_APT_analysis.pro" partName="parrec_APT_analysis.pro" title="parrec_APT_analysis.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\parrec_APT_analysis.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/parrec_APT_analysis.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4539" selectionTopPixel="1530"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_batch_submit_process.pro" partName="cw_batch_submit_process.pro" title="cw_batch_submit_process.pro" tooltip="H:\prostate\2012_07Jul_05_pTX_9tp\lib\cw_batch_submit_process.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/H:/prostate/2012_07Jul_05_pTX_9tp/lib/cw_batch_submit_process.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_plot_window.pro" partName="cw_plot_window.pro" title="cw_plot_window.pro" tooltip="H:\prostate\2012_07Jul_05_pTX_9tp\lib\cw_plot_window.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/H:/prostate/2012_07Jul_05_pTX_9tp/lib/cw_plot_window.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_filesel.pro" partName="cw_filesel.pro" title="cw_filesel.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\cw_filesel.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/cw_filesel.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17711" selectionTopPixel="7935"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_people.pro" partName="d_people.pro" title="d_people.pro" tooltip="C:\Program Files\Exelis\IDL83\examples\demo\demosrc\d_people.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/examples/demo/demosrc/d_people.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="19335" selectionTopPixel="9195"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="xmanager.pro" partName="xmanager.pro" title="xmanager.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\xmanager.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/xmanager.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18169" selectionTopPixel="6960"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_surfview.pro" partName="d_surfview.pro" title="d_surfview.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\d_surfview.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/d_surfview.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6950" selectionTopPixel="3000"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="idlexmodelmanip__define.pro" partName="idlexmodelmanip__define.pro" title="idlexmodelmanip__define.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\idlexmodelmanip__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/idlexmodelmanip__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="idlexviewmanip__define.pro" partName="idlexviewmanip__define.pro" title="idlexviewmanip__define.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\idlexviewmanip__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/idlexviewmanip__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="idlexrotator__define.pro" partName="idlexrotator__define.pro" title="idlexrotator__define.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\idlexrotator__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/idlexrotator__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="orb__define.pro" partName="orb__define.pro" title="orb__define.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\orb__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/orb__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="congrid.pro" partName="congrid.pro" title="congrid.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\congrid.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/congrid.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6820" selectionTopPixel="1875"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21.pro" partName="d_objworld21.pro" title="d_objworld21.pro" tooltip="F:\Temp_laptop_2017_05_29\Research\program_Liu20180526b_copy\lib\source_code\d_objworld21.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/F:/Temp_laptop_2017_05_29/Research/program_Liu20180526b_copy/lib/source_code/d_objworld21.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="108" selectionOffset="274733" selectionTopPixel="113775"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21.pro" partName="d_objworld21.pro" title="d_objworld21.pro" tooltip="F:\Temp_laptop_2017_05_29\Research\program_Liu20180510_copy\lib\source_code\d_objworld21.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/F:/Temp_laptop_2017_05_29/Research/program_Liu20180510_copy/lib/source_code/d_objworld21.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="268746" selectionTopPixel="112245"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21aa.pro" partName="d_objworld21aa.pro" title="d_objworld21aa.pro" tooltip="C:\Users\dell\Documents\WeChat Files\guangjia1976\Files\d_objworld21aa.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/dell/Documents/WeChat%20Files/guangjia1976/Files/d_objworld21aa.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="244331" selectionTopPixel="102480"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="analyze_lib.pro" partName="analyze_lib.pro" title="analyze_lib.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\analyze_lib.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/analyze_lib.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="file_io.pro" partName="file_io.pro" title="file_io.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\file_io.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/file_io.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="39422" selectionTopPixel="27150"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="skiver__define.pro" partName="skiver__define.pro" title="skiver__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\skiver__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/skiver__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_widgets__define.pro" partName="struc_widgets__define.pro" title="struc_widgets__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_widgets__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_widgets__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_roi__define.pro" partName="struc_roi__define.pro" title="struc_roi__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_roi__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_roi__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="messparameter__define.pro" partName="messparameter__define.pro" title="messparameter__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\messparameter__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/messparameter__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="dyna_pop.pro" partName="dyna_pop.pro" title="dyna_pop.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\dyna_pop.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/dyna_pop.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="shortnam.pro" partName="shortnam.pro" title="shortnam.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\shortnam.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/shortnam.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="save_cine_avi.pro" partName="save_cine_avi.pro" title="save_cine_avi.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\save_cine_avi.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/save_cine_avi.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="Derive_binom_mask.pro" partName="Derive_binom_mask.pro" title="Derive_binom_mask.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\Derive_binom_mask.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/Derive_binom_mask.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="display.pro" partName="display.pro" title="display.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\display.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/display.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fit_list.pro" partName="fit_list.pro" title="fit_list.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fit_list.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fit_list.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fit_plasma.pro" partName="fit_plasma.pro" title="fit_plasma.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fit_plasma.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fit_plasma.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="match_routines.pro" partName="match_routines.pro" title="match_routines.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\match_routines.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/match_routines.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="match_serie.pro" partName="match_serie.pro" title="match_serie.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\match_serie.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/match_serie.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_828_1_1.pro" partName="ct_rainbow_828_1_1.pro" title="ct_rainbow_828_1_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_828_1_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_828_1_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_828_3_1.pro" partName="ct_rainbow_828_3_1.pro" title="ct_rainbow_828_3_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_828_3_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_828_3_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_904_1.pro" partName="ct_rainbow_904_1.pro" title="ct_rainbow_904_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_904_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_904_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_8281_1.pro" partName="ct_rainbow_8281_1.pro" title="ct_rainbow_8281_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_8281_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_8281_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_8291_1.pro" partName="ct_rainbow_8291_1.pro" title="ct_rainbow_8291_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_8291_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_8291_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_9041_1.pro" partName="ct_rainbow_9041_1.pro" title="ct_rainbow_9041_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_9041_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_9041_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="ct_rainbow_41803_1.pro" partName="ct_rainbow_41803_1.pro" title="ct_rainbow_41803_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\ct_rainbow_41803_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/ct_rainbow_41803_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="lightcolorred25_1.pro" partName="lightcolorred25_1.pro" title="lightcolorred25_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\lightcolorred25_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/lightcolorred25_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="lightcolorred36_1.pro" partName="lightcolorred36_1.pro" title="lightcolorred36_1.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\lightcolorred36_1.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/lightcolorred36_1.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="loadcolortable.pro" partName="loadcolortable.pro" title="loadcolortable.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\loadcolortable.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/loadcolortable.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="curv_rl.pro" partName="curv_rl.pro" title="curv_rl.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\curv_rl.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/curv_rl.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_roi.pro" partName="cw_roi.pro" title="cw_roi.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_roi.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_roi.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_roi_move_window.pro" partName="cw_roi_move_window.pro" title="cw_roi_move_window.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_roi_move_window.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_roi_move_window.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_meas_options.pro" partName="cw_meas_options.pro" title="cw_meas_options.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_meas_options.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_meas_options.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4678" selectionTopPixel="2475"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_about.pro" partName="cw_about.pro" title="cw_about.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_about.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_about.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_sliderandnumber.pro" partName="cw_sliderandnumber.pro" title="cw_sliderandnumber.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_sliderandnumber.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_sliderandnumber.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="model__define.pro" partName="model__define.pro" title="model__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\model__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/model__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_editmaxmin.pro" partName="cw_editmaxmin.pro" title="cw_editmaxmin.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_editmaxmin.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_editmaxmin.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_select_patient.pro" partName="cw_select_patient.pro" title="cw_select_patient.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_select_patient.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_select_patient.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_sma.pro" partName="cw_sma.pro" title="cw_sma.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_sma.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_sma.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_disclaimer.pro" partName="cw_disclaimer.pro" title="cw_disclaimer.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_disclaimer.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_disclaimer.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="dyn_save.pro" partName="dyn_save.pro" title="dyn_save.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\dyn_save.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/dyn_save.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_image_info__define.pro" partName="struc_image_info__define.pro" title="struc_image_info__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_image_info__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_image_info__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_imat_inf__define.pro" partName="struc_imat_inf__define.pro" title="struc_imat_inf__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_imat_inf__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_imat_inf__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_display__define.pro" partName="struc_display__define.pro" title="struc_display__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_display__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_display__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="struc_dicom__define.pro" partName="struc_dicom__define.pro" title="struc_dicom__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\struc_dicom__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/struc_dicom__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fit__define.pro" partName="fit__define.pro" title="fit__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fit__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fit__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fit.pro" partName="fit.pro" title="fit.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fit.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fit.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fit_a_k21_cluster.pro" partName="fit_a_k21_cluster.pro" title="fit_a_k21_cluster.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fit_a_k21_cluster.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fit_a_k21_cluster.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="get_text.pro" partName="get_text.pro" title="get_text.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\get_text.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/get_text.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="macharr.pro" partName="macharr.pro" title="macharr.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\macharr.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/macharr.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="patient__define.pro" partName="patient__define.pro" title="patient__define.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\patient__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/patient__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="two_komp.pro" partName="two_komp.pro" title="two_komp.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\two_komp.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/two_komp.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_batch_submit_process.pro" partName="cw_batch_submit_process.pro" title="cw_batch_submit_process.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_batch_submit_process.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_batch_submit_process.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="11335" selectionTopPixel="5565"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="process_batches.pro" partName="process_batches.pro" title="process_batches.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\process_batches.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/process_batches.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="dynamik.pro" partName="dynamik.pro" title="dynamik.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\dynamik.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/dynamik.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="60963" selectionTopPixel="18885"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="truecolor.pro" partName="truecolor.pro" title="truecolor.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\truecolor.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/truecolor.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="zoom_cine.pro" partName="zoom_cine.pro" title="zoom_cine.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\zoom_cine.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/zoom_cine.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="onion_peeling_main.pro" partName="onion_peeling_main.pro" title="onion_peeling_main.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\onion_peeling_main.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/onion_peeling_main.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="mpfit.pro" partName="mpfit.pro" title="mpfit.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\mpfit.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/mpfit.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="mpfitfun.pro" partName="mpfitfun.pro" title="mpfitfun.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\mpfitfun.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/mpfitfun.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="polint.pro" partName="polint.pro" title="polint.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\polint.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/polint.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="colorbar.pro" partName="colorbar.pro" title="colorbar.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\colorbar.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/colorbar.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="color_on_gray.pro" partName="color_on_gray.pro" title="color_on_gray.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\color_on_gray.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/color_on_gray.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="diffusion_analysis.pro" partName="diffusion_analysis.pro" title="diffusion_analysis.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\diffusion_analysis.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/diffusion_analysis.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="gamma_variate.pro" partName="gamma_variate.pro" title="gamma_variate.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\gamma_variate.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/gamma_variate.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="two_comp_adj_fit.pro" partName="two_comp_adj_fit.pro" title="two_comp_adj_fit.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\two_comp_adj_fit.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/two_comp_adj_fit.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fitpar_v53_Jul132009_withprostate.pro" partName="fitpar_v53_Jul132009_withprostate.pro" title="fitpar_v53_Jul132009_withprostate.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fitpar_v53_Jul132009_withprostate.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fitpar_v53_Jul132009_withprostate.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="72972" selectionTopPixel="36930"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="xcolors.pro" partName="xcolors.pro" title="xcolors.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\xcolors.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/xcolors.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="error_message.pro" partName="error_message.pro" title="error_message.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\error_message.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/error_message.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="pickcolorname.pro" partName="pickcolorname.pro" title="pickcolorname.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\pickcolorname.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/pickcolorname.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="fsc_color.pro" partName="fsc_color.pro" title="fsc_color.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\fsc_color.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/fsc_color.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="decomposedcolor.pro" partName="decomposedcolor.pro" title="decomposedcolor.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\decomposedcolor.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/decomposedcolor.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="tvimage.pro" partName="tvimage.pro" title="tvimage.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\tvimage.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/tvimage.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="tvread.pro" partName="tvread.pro" title="tvread.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\tvread.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/tvread.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="loaddata.pro" partName="loaddata.pro" title="loaddata.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\loaddata.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/loaddata.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="idlgrcolorbar__define.pro" partName="idlgrcolorbar__define.pro" title="idlgrcolorbar__define.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\idlgrcolorbar__define.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Program%20Files/Exelis/IDL83/lib/idlgrcolorbar__define.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="image_blend.pro" partName="image_blend.pro" title="image_blend.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\image_blend.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/image_blend.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11643" selectionTopPixel="5670"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="saveimage.pro" partName="saveimage.pro" title="saveimage.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\saveimage.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/saveimage.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="motion_correction_cest.pro" partName="motion_correction_cest.pro" title="motion_correction_cest.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\motion_correction_cest.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/motion_correction_cest.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cw_plot_window.pro" partName="cw_plot_window.pro" title="cw_plot_window.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_plot_window.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_plot_window.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="421352" selectionTopPixel="95415"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="slice_batch.pro" partName="slice_batch.pro" title="slice_batch.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\slice_batch.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/slice_batch.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="83298" selectionTopPixel="27855"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="cleanup.pro" partName="cleanup.pro" title="cleanup.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cleanup.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cleanup.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="dwi_ADC.pro" partName="dwi_ADC.pro" title="dwi_ADC.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\dwi_ADC.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/dwi_ADC.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="polyfit.pro" partName="polyfit.pro" title="polyfit.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\polyfit.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/polyfit.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="651" selectionTopPixel="0"/>
+</editor>
+<editor id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21hjx.pro" partName="d_objworld21hjx.pro" title="d_objworld21hjx.pro" tooltip="C:\Users\dell\Documents\WeChat Files\guangjia1976\Files\d_objworld21hjx.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/dell/Documents/WeChat%20Files/guangjia1976/Files/d_objworld21hjx.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="95" selectionOffset="246779" selectionTopPixel="100410"/>
+</editor>
+<editor activePart="true" focus="true" id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21.pro" partName="d_objworld21.pro" title="d_objworld21.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\d_objworld21.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/d_objworld21.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="项目资源管理器">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.rsi.idldt.ui.views.CommandHistoryView" partName="历史命令">
+<viewState columnWidth0="200" grp200="1" showTreeView="1" sortColumn="1" sortDirection="128"/>
+</view>
+<view id="com.rsi.idldt.console.IDLConsoleView" partName="IDL控制台">
+<viewState/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="搜索">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="调试">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="问题">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="问题">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="变量查看器">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="大纲">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.rsi.idldt.console.IDLConsoleView" activePerspective="com.rsi.idldt.ui.IDLPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.rsi.idldt.internal.ui.IDLPerspectiveFactory" id="com.rsi.idldt.ui.IDLPerspective" label="IDL"/>
+<alwaysOnActionSet id="com.rsi.idldt.tasks.actionSets.Wizard"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.actionSets.CmdLine"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.actionSets.File"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.actionSets.Run"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.actionSets.Wizard"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.actionSets.Help"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.MacroActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.rsi.idldt.ui.CodingActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.rsi.idldt.console.IDLConsoleView"/>
+<view id="com.rsi.idldt.ui.views.CommandHistoryView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<fastViews>
+<view id="org.eclipse.debug.ui.DebugView" ratio="0.3"/>
+</fastViews>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="项目资源管理器"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="大纲"/>
+<page content="org.eclipse.debug.ui.VariableView" label="变量查看器"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="com.rsi.idldt.HierarchyView" ratio="0.7" ratioLeft="700" ratioRight="300" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.59969085" ratioLeft="388" ratioRight="259" relationship="4" relative="left">
+<folder activePageID="com.rsi.idldt.console.IDLConsoleView" appearance="2" expanded="2">
+<page content="com.rsi.idldt.console.IDLConsoleView" label="IDL控制台"/>
+<page content="com.rsi.idldt.ui.views.CommandHistoryView" label="历史命令"/>
+<page content="org.eclipse.ui.views.ProblemView" label="问题"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="搜索"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="*" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.22001047" ratioLeft="420" ratioRight="1489" relationship="2" relative="left"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/d_objworld21.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/fsc_color.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/idlexmodelmanip__define.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/idlexrotator__define.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/orb__define.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/progressbar__define.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/H:/d_objworld21.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/H:/d_objworld2120180601.pro"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/xd_xroi.pro"/>
+</editors>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="fsc_color.pro" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="progressbar__define.pro" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="idlexmodelmanip__define.pro" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="fsc_color.pro" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="fsc_color.pro" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="progressbar__define.pro" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="idlexrotator__define.pro" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="d_objworld21.pro" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld21.pro" index="0">
+<position/>
+</item>
+<item historyLabel="orb__define.pro" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="71047" y="12"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="71062" y="0"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="22623" y="16"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="60886" y="12"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="71047" y="12"/>
+</item>
+<item historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="96541" y="0"/>
+</item>
+<item historyLabel="xd_xroi.pro" index="8">
+<position info="not_deleted" x="133848" y="0"/>
+</item>
+<item historyLabel="xd_xroi.pro" index="8">
+<position info="not_deleted" x="140747" y="0"/>
+</item>
+<item active="true" historyLabel="d_objworld2120180601.pro" index="7">
+<position info="not_deleted" x="96541" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld2120180601.pro" tooltip="H:\d_objworld2120180601.pro">
+<persistable uri="file:/H:/d_objworld2120180601.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="myfusion.pro" tooltip="C:\Users\dell\Documents\WeChat Files\guangjia1976\Files\myfusion.pro">
+<persistable uri="file:/C:/Users/dell/Documents/WeChat%20Files/guangjia1976/Files/myfusion.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21hjx.pro" tooltip="C:\Users\dell\Documents\WeChat Files\guangjia1976\Files\d_objworld21hjx.pro">
+<persistable uri="file:/C:/Users/dell/Documents/WeChat%20Files/guangjia1976/Files/d_objworld21hjx.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21.pro" tooltip="E:\Research\MED_visualization\program_Liu20171114\lib\source_code\d_objworld21.pro">
+<persistable uri="file:/E:/Research/MED_visualization/program_Liu20171114/lib/source_code/d_objworld21.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="d_objworld21xxx.pro" tooltip="C:\Users\dell\Documents\WeChat Files\guangjia1976\Files\d_objworld21xxx.pro">
+<persistable uri="file:/C:/Users/dell/Documents/WeChat%20Files/guangjia1976/Files/d_objworld21xxx.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="polyfit.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\polyfit.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/polyfit.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="dwi_ADC.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\dwi_ADC.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/dwi_ADC.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="cleanup.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cleanup.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cleanup.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="slice_batch.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\slice_batch.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/slice_batch.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="cw_plot_window.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\cw_plot_window.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/cw_plot_window.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="motion_correction_cest.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\motion_correction_cest.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/motion_correction_cest.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="saveimage.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\saveimage.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/saveimage.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="image_blend.pro" tooltip="E:\Soft_devel\Dynamic_MRI\2012_07Jul_05_pTX_9tp\lib\image_blend.pro">
+<persistable uri="file:/E:/Soft_devel/Dynamic_MRI/2012_07Jul_05_pTX_9tp/lib/image_blend.pro"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="idlgrcolorbar__define.pro" tooltip="C:\Program Files\Exelis\IDL83\lib\idlgrcolorbar__define.pro">
+<persistable uri="file:/C:/Program%20Files/Exelis/IDL83/lib/idlgrcolorbar__define.pro"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,5 @@
+1. install IDL
+2. copy coyote program to the folder (C:\D_drive\AIMIS_3d\coyote)，在IDL窗口的首选项中，添加该路径，并上移为第一
+3. IDL中当前目录设为最新程序的地址，如“C:\D_drive\AIMIS_3d\Software_versions\AIMIS3D_20221219a”
+4. IDL控制台运行 @aimis3d.bat
+5. 运行AIMIS3D.pro

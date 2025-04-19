@@ -1,0 +1,86 @@
+
+
+
+       WELCOME TO THE MPI FILTERING DEMO
+
+   This example demonstrates some MPI filters. 
+
+   The original image is shown at the left of the
+   display. The image at the right is displayed as 
+   selected by the droplist located below the image. 
+   The original data is processed according to the 
+   filter options shown to the left of the images.
+
+
+   MENU OPTIONS
+   ------------
+
+   File Menu:
+      Open...
+      You can choose from among 16 different sets of 
+      data from disciplines including astronomy,
+      geology, and medicine.
+      
+      Quit
+      Quit the Fourier Filtering Demo and return to 
+      the IDL Demo main screen.
+
+   
+   Edit Menu:
+      Select "Color Palette" to launch the XLOADCT 
+      application. You can select different color 
+      tables to help clarify the various images.
+
+
+   Help Menu:
+      Select "About MPI filtering" for 
+      information about the MPI Filtering
+      demo.
+
+
+   FILTER OPTIONS
+   --------------
+
+   <<FUNCTION>> droplist
+      Select between 3 filter functions:
+      Butterworth, Exponential, and Ideal.
+
+   <<ORDER>> droplist
+       Select a filter order between 1 and 6.
+
+   <<TYPE>> droplist
+       Select the filter type: Low pass, High 
+       pass, Band pass, or Band reject.
+
+
+   <<FREQUENCY CUTOFF>> slider
+       Select the frequency cutoff of the filter.
+
+   <<BANDWIDTH>> slider
+       Select the frequency bandwidth of the filter.
+       This option is only enabled when the filter 
+       type is set to Band pass or Band reject.
+
+    PLOT VIEW OPTIONS:
+
+       The droplist located under the display to the 
+       right consists of the following options :
+
+       o  Original signal
+       o  Log power spectrum
+       o  Filter plot
+       o  Filter intensity image
+       o  Filter cross section
+       o  Shaded surface of filter
+       o  Log filtered power spectrum
+       o  Filtered signal
+
+
+       Filter intensity image, Filter cross section, 
+       and Shaded surface of a filter are enabled 
+       only when viewing an image data set.
+
+
+
+
+

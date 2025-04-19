@@ -1,0 +1,7 @@
+2 3
+welcome|MPI contains a variety of filtering
+simulation|capabilities. Filter can be applied to
+dsp|both plots and images. Guang Jia@Xidian, 2021/7/27
+select|You can select how to display and process
+convolution|the data with the options below and
+slider|to the left of the processed image.

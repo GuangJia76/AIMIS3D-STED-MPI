@@ -1,0 +1,16 @@
+2 3
+welcome|XWT-XDU allows you to modify 3D objects on
+showing|all systems. Users with OpenGL hardware
+interact|enjoy accelerated 3-D graphics.
+selecto|Click and drag the surface with the mouse.
+infor|Change the surface plot attributes by
+instr|selecting items from the Options menu.
+locat|Data point location :
+regio|Select a region with
+right|the right mouse button.
+mask1|Click the 'Activate Trace Mask' menu-
+displ|button to display traced region.
+mask2|Click the 'Deactivate Trace Mask' menu-
+disp2|button to restore the surface.
+reset|Click the 'Deactivate Outlining' menu-
+erase|button to erase red outlines.
